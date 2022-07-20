@@ -8,10 +8,7 @@ https://drive.google.com/file/d/1xB_miDmTF-oimWGY1pzJOLz9mdHaznW9/view?usp=shari
 Platformer exported file: 
 https://mega.nz/file/Ao0kRa7Y#AikCrZp5B4W1aCLW5nwNMOUNEcLG1GE5fruiycHagKY
 
-My graduation project file (FPS/TPS multiplayer zombie shooting game) (ONGOING)
-https://mega.nz/file/V812AYRS#IEVjCZa_5Ki6t38GZyiXYcmUQfK2xxtljmx-iO1kHLU
-
-My exported graduation project: (ONGOING)
+FPS/TPS multiplayer zombie shooting game
 https://mega.nz/file/VssAHQCA#ZTq_NyR5UEQ3k1TUgb1MeGbSjG4jIrgodbxJdF3X-1Y
 
 Unity project file 
